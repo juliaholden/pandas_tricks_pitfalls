@@ -14,8 +14,7 @@ The notebook is designed to help both beginners and experienced pandas users:
 - **Pandas Basics**: A quick overview of pandas' core functionalities.
 - **Advanced Indexing**: Best practices for handling pandas indices.
 - **Performance Optimization**: Techniques to speed up data processing.
-- **Pitfalls**: Common issues such as `SettingWithCopyWarning` and how to handle them.
-- **Tricks and Tips**: Handy methods like chaining, `query()`, and custom `apply()` functions.
+- **Pitfalls**: Common issues such as innefficient operations and slow indexing.
 
 ## 🚀 Getting Started
 
